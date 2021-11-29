@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.myapplication">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+
+    <application
+        android:allowBackup="true"
+        android:hardwareAccelerated="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MyApplication"
+        android:usesCleartextTraffic="true"
+        tools:targetApi="m">
+        <activity
+            android:name=".main.MainActivity"
+            android:exported="true" />
+        <activity
+            android:name=".splash.Splash"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".patient.ReserveList"
+            android:exported="true" />
+        <activity
+            android:name=".patient.Reserve"
+            android:exported="true" />
+        <activity
+            android:name=".user.Register"
+            android:exported="true" />
+        <activity
+            android:name=".user.Login"
+            android:exported="true" />
+        <activity
+            android:name=".user.UserList"
+            android:exported="true" />
+        <activity
+            android:name=".test"
+            android:exported="true" />
+        <activity
+            android:name=".patient.DatePicker"
+            android:exported="true" />
+        <activity
+            android:name=".city.Tehran"
+            android:exported="true" />
+        <activity
+            android:name=".city.Mashhad"
+            android:exported="true" />
+        <activity
+            android:name=".city.Shiraz"
+            android:exported="true" />
+        <activity
+            android:name=".city.Esfahan"
+            android:exported="true" />
+        <activity
+            android:name=".city.Gorgan"
+            android:exported="true" />
+        <activity
+            android:name=".city.Rasht"
+            android:exported="true" />
+        <activity
+            android:name=".specialty.Childbirth"
+            android:exported="true" />
+        <activity
+            android:name=".specialty.Lung"
+            android:exported="true" />
+        <activity
+            android:name=".specialty.Tooth"
+            android:exported="true" />
+        <activity
+            android:name=".specialty.Heart"
+            android:exported="true" />
+        <activity
+            android:name=".specialty.Brain"
+            android:exported="true" />
+        <activity
+            android:name=".specialty.Liver"
+            android:exported="true" />
+        <activity
+            android:name=".doctorList.DoctorsInfo"
+            android:exported="true" />
+    </application>
+
+</manifest>
