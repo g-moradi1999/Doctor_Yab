@@ -2,9 +2,7 @@ package com.example.myapplication.patient
 
 import android.app.Application
 import androidx.lifecycle.LiveData
-import kotlinx.coroutines.InternalCoroutinesApi
 
-@InternalCoroutinesApi
 class PatientRepository(application: Application) {
     val patientDao: PatientDao
     val allReserveUsers: LiveData<List<Patient>>
@@ -26,5 +24,10 @@ class PatientRepository(application: Application) {
     fun deleteReserves(patient: Patient) {
         patientDao.deleteReservedUser(patient)
     }
+
+    fun checkReserve(time: String, date: String): Boolean {
+        return patientDao.checkExist(time,date)
+    }
 }
+
 

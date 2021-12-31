@@ -20,5 +20,7 @@ interface UserDao {
     @Query("SELECT * FROM USER_TABLE WHERE name = :name AND code = :code")
     fun loginUser(name: String, code: String): User
 
+    @Query("SELECT EXISTS (SELECT * FROM user_table WHERE name = :name AND code = :code)")
+    fun checkExist(name: String, code: String): Boolean
 }
 

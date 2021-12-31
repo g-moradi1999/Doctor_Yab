@@ -9,17 +9,23 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.ViewModelProvider
 import com.example.myapplication.R
 import com.example.myapplication.main.MainActivity
-import kotlinx.coroutines.InternalCoroutinesApi
 
 class Register : AppCompatActivity() {
-    @InternalCoroutinesApi
+
     private lateinit var mUserViewModel: UserViewModel
 
-    @InternalCoroutinesApi
+    companion object {
+        var uname: String = ""
+        var uLastName: String = ""
+        var uPhone: String = ""
+        var uCode: String = ""
+        var uAge: String = ""
+    }
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_register)
-        mUserViewModel = ViewModelProvider(this).get(UserViewModel::class.java)
+        mUserViewModel = ViewModelProvider(this)[UserViewModel::class.java]
         val register = findViewById<Button>(R.id.save)
         register.setOnClickListener {
             val name = findViewById<EditText>(R.id.name)
@@ -27,16 +33,15 @@ class Register : AppCompatActivity() {
             val age = findViewById<EditText>(R.id.age)
             val code = findViewById<EditText>(R.id.code)
             val phone = findViewById<EditText>(R.id.phone)
-            val uname = name.text.toString()
-            val uLastName = lastName.text.toString()
-            val uAge = age.text.toString()
-            val uCode = code.text.toString()
-            val uPhone = phone.text.toString()
+            uname = name.text.toString()
+            uLastName = lastName.text.toString()
+            uAge = age.text.toString()
+            uCode = code.text.toString()
+            uPhone = phone.text.toString()
             val user = User(0, uname, uLastName, uCode, uPhone, uAge)
             if (validInput(user)) {
                 runOnUiThread {
                     mUserViewModel.insertUsers(user)
-                    Toast.makeText(this, "successfully", Toast.LENGTH_LONG).show()
                     val intent = Intent(this, MainActivity::class.java)
                     startActivity(intent)
                 }
@@ -51,18 +56,11 @@ class Register : AppCompatActivity() {
             phone.text.clear()
             code.text.clear()
         }
-
-      /*  val show = findViewById<Button>(R.id.show)
-        show.setOnClickListener {
-            val intent = Intent(this, UserList::class.java)
-            startActivity(intent)
-        }*/
         val login = findViewById<Button>(R.id.login)
         login.setOnClickListener {
             val intent = Intent(this, Login::class.java)
             startActivity(intent)
         }
-
     }
 
     private fun validInput(user: User): Boolean {
@@ -71,5 +69,4 @@ class Register : AppCompatActivity() {
         }
         return true
     }
-
 }

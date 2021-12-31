@@ -2,9 +2,8 @@ package com.example.myapplication.user
 
 import android.app.Application
 import androidx.lifecycle.LiveData
-import kotlinx.coroutines.InternalCoroutinesApi
 
-@InternalCoroutinesApi
+
 class UserRepository(application: Application) {
 
     val userDao: UserDao
@@ -30,5 +29,9 @@ class UserRepository(application: Application) {
 
     fun loginUsers(name: String, code: String): User {
         return userDao.loginUser(name, code)
+    }
+
+    fun checkExistUser(name: String, code: String): Boolean {
+        return userDao.checkExist(name, code)
     }
 }

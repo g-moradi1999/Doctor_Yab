@@ -1,11 +1,14 @@
 package com.example.myapplication.fragments
 
+import android.content.res.Configuration
+import android.content.res.Resources
 import android.os.Bundle
 import android.util.Log
 import android.view.*
 import android.widget.SearchView
 import android.widget.Toast
 import androidx.fragment.app.Fragment
+import androidx.fragment.app.FragmentActivity
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.example.myapplication.R
@@ -18,24 +21,17 @@ import retrofit2.Response
 import java.util.*
 import kotlin.collections.ArrayList
 
-
 class DoctorFragment : Fragment() {
-
-    private lateinit var recycle: RecyclerView
+    lateinit var recycle: RecyclerView
     var dataList = ArrayList<Doctors>()
     val list = ArrayList<Doctors>()
-
     override fun onCreateView(
-
-        inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?
+        inflater: LayoutInflater, container: ViewGroup?,
+        savedInstanceState: Bundle?
     ): View? {
-        setHasOptionsMenu(true)
         val t = inflater.inflate(R.layout.fragment_doctor, container, false)
+        setLocale(requireActivity(), "en")
         recycle = t.findViewById(R.id.recyclerview)
-        recycle.adapter = DoctorsAdapter(requireActivity(), dataList)
-        recycle.layoutManager =
-            LinearLayoutManager(requireActivity(), LinearLayoutManager.VERTICAL, false)
-
         DoctorsApi().getList().enqueue(object : Callback<List<Doctors>> {
             override fun onResponse(
                 call: Call<List<Doctors>>,
@@ -44,8 +40,9 @@ class DoctorFragment : Fragment() {
                 response.body()?.let {
                     dataList.addAll(it)
                 }
+                recycle.layoutManager = LinearLayoutManager(requireActivity())
+                recycle.adapter = DoctorsAdapter(requireActivity(), dataList)
             }
-
             override fun onFailure(call: Call<List<Doctors>>, t: Throwable) {
                 Toast.makeText(requireActivity(), "fail", Toast.LENGTH_LONG).show()
                 Log.v("Error!", "WE HAVE ERROR!", t)
@@ -86,5 +83,13 @@ class DoctorFragment : Fragment() {
         })
         return super.onCreateOptionsMenu(menu, menuInflater)
     }
-}
 
+    private fun setLocale(activity: FragmentActivity, language: String) {
+        val locale = Locale(language)
+        Locale.setDefault(locale)
+        val resources: Resources = activity.resources
+        val config: Configuration = resources.configuration
+        config.setLocale(locale)
+        resources.updateConfiguration(config, resources.displayMetrics)
+    }
+}

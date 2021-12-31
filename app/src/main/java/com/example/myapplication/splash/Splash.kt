@@ -6,6 +6,7 @@ import android.os.Handler
 import android.view.WindowManager
 import androidx.appcompat.app.AppCompatActivity
 import com.example.myapplication.R
+import com.example.myapplication.main.MainActivity
 import com.example.myapplication.user.Register
 
 class Splash : AppCompatActivity() {
@@ -20,7 +21,7 @@ class Splash : AppCompatActivity() {
         Handler().postDelayed(
             {
                 val intent = Intent(this, Register::class.java)
-                //val intent = Intent(this, MainActivity::class.java)
+               // val intent = Intent(this, MainActivity::class.java)
                 startActivity(intent)
                 finish()
             }, 3000

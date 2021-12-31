@@ -37,8 +37,9 @@
                                             <option name="values">
                                               <map>
                                                 <entry key="color" value="000000" />
-                                                <entry key="imagePath" value="C:\Users\golno\Downloads\doctor.png" />
+                                                <entry key="imagePath" value="C:\Users\golno\Downloads\hd-doctors-logo-transparent-background-23.png" />
                                                 <entry key="opacityPercent" value="80" />
+                                                <entry key="paddingPercent" value="-10" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -71,8 +72,8 @@
                                   <option name="values">
                                     <map>
                                       <entry key="assetType" value="IMAGE" />
-                                      <entry key="imageAsset" value="C:\Users\golno\Downloads\doctor.png" />
-                                      <entry key="outputName" value="doci" />
+                                      <entry key="imageAsset" value="C:\Users\golno\Downloads\hd-doctors-logo-transparent-background-23.png" />
+                                      <entry key="outputName" value="comment" />
                                       <entry key="theme" value="CUSTOM" />
                                       <entry key="themeColor" value="62abe0" />
                                     </map>
@@ -151,6 +152,19 @@
                                           </PersistentState>
                                         </value>
                                       </entry>
+                                      <entry key="image">
+                                        <value>
+                                          <PersistentState>
+                                            <option name="values">
+                                              <map>
+                                                <entry key="color" value="000000" />
+                                                <entry key="imagePath" value="C:\Users\golno\Downloads\hd-doctors-logo-transparent-background-23.png" />
+                                                <entry key="paddingPercent" value="-10" />
+                                              </map>
+                                            </option>
+                                          </PersistentState>
+                                        </value>
+                                      </entry>
                                       <entry key="text">
                                         <value>
                                           <PersistentState>
@@ -173,6 +187,14 @@
                                           </PersistentState>
                                         </value>
                                       </entry>
+                                    </map>
+                                  </option>
+                                  <option name="values">
+                                    <map>
+                                      <entry key="assetType" value="IMAGE" />
+                                      <entry key="iconShape" value="NONE" />
+                                      <entry key="imageAsset" value="C:\Users\golno\Downloads\hd-doctors-logo-transparent-background-23.png" />
+                                      <entry key="outputName" value="appicon" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -301,7 +323,7 @@
                         </option>
                         <option name="values">
                           <map>
-                            <entry key="outputIconType" value="ACTIONBAR" />
+                            <entry key="outputIconType" value="LAUNCHER_LEGACY" />
                           </map>
                         </option>
                       </PersistentState>
@@ -327,7 +349,7 @@
                                 <PersistentState>
                                   <option name="values">
                                     <map>
-                                      <entry key="url" value="file:/$USER_HOME$/AppData/Local/Android/Sdk/icons/material/materialicons/date_range/baseline_date_range_24.xml" />
+                                      <entry key="url" value="file:/$USER_HOME$/AppData/Local/Android/Sdk/icons/material/materialicons/add_comment/baseline_add_comment_24.xml" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -338,7 +360,7 @@
                         <option name="values">
                           <map>
                             <entry key="color" value="62abe0" />
-                            <entry key="outputName" value="ic_baseline_date_range_24" />
+                            <entry key="outputName" value="ic_baseline_add_comment_24" />
                             <entry key="sourceFile" value="C:\Users\golno\AndroidStudioProjects\MyApplication" />
                           </map>
                         </option>

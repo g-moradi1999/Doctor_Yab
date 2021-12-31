@@ -2,7 +2,7 @@ package com.example.myapplication.main
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import androidx.fragment.app.Fragment
+import androidx.fragment.app.FragmentTransaction
 import com.example.myapplication.R
 import com.example.myapplication.fragments.DoctorFragment
 import com.example.myapplication.fragments.HomeFragment
@@ -13,25 +13,35 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-
-        val DoctorFragment = DoctorFragment()
-        val HomeFragment = HomeFragment()
-        val ProfileFragment = ProfileFragment()
-        makeCurrentFragment(HomeFragment)
         val bottomNavigationView = findViewById<BottomNavigationView>(R.id.bottom_navigation)
-        bottomNavigationView.setOnNavigationItemSelectedListener {
-            when (it.itemId) {
-                R.id.home -> makeCurrentFragment(HomeFragment)
-                R.id.doctor -> makeCurrentFragment(DoctorFragment)
-                R.id.profile -> makeCurrentFragment(ProfileFragment)
+        val selectedListener =
+            BottomNavigationView.OnNavigationItemSelectedListener {
+                when (it.itemId) {
+                    R.id.homeFragment -> {
+                        val homeFragment = HomeFragment()
+                        val fragmentTransaction = supportFragmentManager.beginTransaction()
+                        fragmentTransaction.replace(R.id.frame, homeFragment)
+                        fragmentTransaction.commit()
+                    }
+                    R.id.profileFragment -> {
+                        val profileFragment = ProfileFragment()
+                        val fragmentTransaction = supportFragmentManager.beginTransaction()
+                        fragmentTransaction.replace(R.id.frame, profileFragment)
+                        fragmentTransaction.commit()
+                    }
+                    R.id.doctorFragment -> {
+                        val doctorFragment = DoctorFragment()
+                        val fragmentTransaction = supportFragmentManager.beginTransaction()
+                        fragmentTransaction.replace(R.id.frame, doctorFragment)
+                        fragmentTransaction.commit()
+                    }
+                }
+                true
             }
-            true
-        }
+        bottomNavigationView.setOnNavigationItemSelectedListener(selectedListener)
+        val homeFragment = HomeFragment()
+        val fragmentTransaction: FragmentTransaction = supportFragmentManager.beginTransaction()
+        fragmentTransaction.replace(R.id.frame, homeFragment, "")
+        fragmentTransaction.commit()
     }
-
-    private fun makeCurrentFragment(fragment: Fragment) =
-        supportFragmentManager.beginTransaction().apply {
-            replace(R.id.frame, fragment)
-            commit()
-        }
 }

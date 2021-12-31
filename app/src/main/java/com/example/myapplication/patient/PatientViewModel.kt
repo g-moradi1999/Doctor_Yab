@@ -3,9 +3,7 @@ package com.example.myapplication.patient
 import android.app.Application
 import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.LiveData
-import kotlinx.coroutines.InternalCoroutinesApi
 
-@InternalCoroutinesApi
 class PatientViewModel(application: Application) : AndroidViewModel(application) {
     val allReserveUsers: LiveData<List<Patient>>
     val repository: PatientRepository = PatientRepository(application)
@@ -24,5 +22,9 @@ class PatientViewModel(application: Application) : AndroidViewModel(application)
 
     fun deleteReserved(patient: Patient) {
         repository.deleteReserves(patient)
+    }
+
+    fun checkReserve(time: String, date: String): Boolean {
+        return repository.checkReserve(time, date)
     }
 }

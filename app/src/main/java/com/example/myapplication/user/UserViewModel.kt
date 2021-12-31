@@ -3,10 +3,8 @@ package com.example.myapplication.user
 import android.app.Application
 import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.LiveData
-import kotlinx.coroutines.InternalCoroutinesApi
 
 
-@InternalCoroutinesApi
 class UserViewModel(application: Application) : AndroidViewModel(application) {
 
     val allUsers: LiveData<List<User>>
@@ -30,5 +28,9 @@ class UserViewModel(application: Application) : AndroidViewModel(application) {
 
     fun loginUsers(name: String, code: String): User {
         return repository.loginUsers(name, code)
+    }
+
+    fun checkExistUser(name: String, code: String): Boolean {
+        return repository.checkExistUser(name, code)
     }
 }

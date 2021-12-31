@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\add_comment.xml",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\layout\\add_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_register.xml",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\doctors_info.xml",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\layout\\doctors_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\save_comment.xml",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\layout\\save_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_reserve_list.xml",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\layout\\activity_reserve_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\users.xml",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\layout\\users.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_upload_image.xml",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\layout\\activity_upload_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\s_comment.xml",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\layout\\s_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_comments_list.xml",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\layout\\activity_comments_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_user_list.xml",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\layout\\activity_user_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_display_image.xml",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\layout\\activity_display_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\reserve.xml",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\layout\\reserve.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\u_image.xml",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\layout\\u_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_reserve.xml",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\layout\\activity_reserve.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\fragment_doctor.xml",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\layout\\fragment_doctor.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_date_picker.xml",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\layout\\activity_date_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\r_list.xml",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\layout\\r_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\doctors.xml",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\layout\\doctors.xml"
+    }
+]

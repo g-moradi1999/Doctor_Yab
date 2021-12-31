@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.myapplication"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="30" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:hardwareAccelerated="false"
+        android:icon="@mipmap/appicon"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/Theme.MyApplication"
+        android:usesCleartextTraffic="true" >
+        <activity
+            android:name="com.example.myapplication.specialty.Nose"
+            android:exported="false" />
+        <activity
+            android:name="com.example.myapplication.specialty.Skin"
+            android:exported="false" />
+        <activity
+            android:name="com.example.myapplication.specialty.Eye"
+            android:exported="false" />
+        <activity
+            android:name="com.example.myapplication.uploadImage.ImageList"
+            android:exported="false" />
+        <activity
+            android:name="com.example.myapplication.comment.AddComment"
+            android:exported="false" />
+        <activity
+            android:name="com.example.myapplication.comment.CommentsList"
+            android:exported="false" />
+        <activity
+            android:name="com.example.myapplication.comment.SaveComment"
+            android:exported="false" />
+        <activity
+            android:name="com.example.myapplication.search.SearchByCity_Specialty"
+            android:exported="false" />
+        <activity
+            android:name="com.example.myapplication.main.MainActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.myapplication.splash.Splash"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.myapplication.patient.ReserveList"
+            android:exported="true" />
+        <activity
+            android:name="com.example.myapplication.patient.Reserve"
+            android:exported="true" />
+        <activity
+            android:name="com.example.myapplication.user.Register"
+            android:exported="true" />
+        <activity
+            android:name="com.example.myapplication.user.Login"
+            android:exported="true" />
+        <activity
+            android:name="com.example.myapplication.user.UserList"
+            android:exported="true" />
+        <activity
+            android:name="com.example.myapplication.uploadImage.UploadImage"
+            android:exported="true" />
+        <activity
+            android:name="com.example.myapplication.patient.DatePicker"
+            android:exported="true" />
+        <activity
+            android:name="com.example.myapplication.city.Tehran"
+            android:exported="true" />
+        <activity
+            android:name="com.example.myapplication.city.Mashhad"
+            android:exported="true" />
+        <activity
+            android:name="com.example.myapplication.city.Shiraz"
+            android:exported="true" />
+        <activity
+            android:name="com.example.myapplication.city.Esfahan"
+            android:exported="true" />
+        <activity
+            android:name="com.example.myapplication.city.Gorgan"
+            android:exported="true" />
+        <activity
+            android:name="com.example.myapplication.city.Rasht"
+            android:exported="true" />
+        <activity
+            android:name="com.example.myapplication.specialty.Childbirth"
+            android:exported="true" />
+        <activity
+            android:name="com.example.myapplication.specialty.Lung"
+            android:exported="true" />
+        <activity
+            android:name="com.example.myapplication.specialty.Tooth"
+            android:exported="true" />
+        <activity
+            android:name="com.example.myapplication.specialty.Heart"
+            android:exported="true" />
+        <activity
+            android:name="com.example.myapplication.specialty.Brain"
+            android:exported="true" />
+        <activity
+            android:name="com.example.myapplication.specialty.Liver"
+            android:exported="true" />
+        <activity
+            android:name="com.example.myapplication.doctorList.DoctorsInfo"
+            android:exported="true" />
+
+        <service
+            android:name="androidx.room.MultiInstanceInvalidationService"
+            android:directBootAware="true"
+            android:exported="false" />
+    </application>
+
+</manifest>

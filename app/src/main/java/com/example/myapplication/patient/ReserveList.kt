@@ -8,14 +8,10 @@ import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.example.myapplication.R
-import kotlinx.coroutines.InternalCoroutinesApi
 
 class ReserveList : AppCompatActivity(), PatientAdapter.RowClickListener {
-    @InternalCoroutinesApi
     private lateinit var mViewModel: PatientViewModel
     var dataList = ArrayList<Patient>()
-
-    @InternalCoroutinesApi
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.reserve)
@@ -40,7 +36,6 @@ class ReserveList : AppCompatActivity(), PatientAdapter.RowClickListener {
         })
     }
 
-    @InternalCoroutinesApi
     override fun onDeleteUserClickListener(patient: Patient) {
         mViewModel.deleteReserved(patient)
     }

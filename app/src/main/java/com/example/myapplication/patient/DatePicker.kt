@@ -10,9 +10,13 @@ import android.text.format.DateFormat
 import android.text.format.DateFormat.is24HourFormat
 import android.util.Log
 import android.widget.Button
+import android.widget.ImageButton
 import android.widget.TextView
+import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import com.example.myapplication.R
+import com.example.myapplication.comment.AddComment
+import com.example.myapplication.uploadImage.UploadImage
 import com.google.android.material.timepicker.MaterialTimePicker
 import com.google.android.material.timepicker.TimeFormat
 import devs.mulham.horizontalcalendar.HorizontalCalendar
@@ -22,14 +26,13 @@ import java.util.*
 
 class DatePicker : AppCompatActivity() {
     companion object {
-        lateinit var selectedDateStr: String
-        lateinit var hour_min: String
+        var selectedDateStr: String = ""
+        var hour_min: String = ""
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_date_picker)
-
         setLocale(this, "fa")
         val uname = findViewById<TextView>(R.id.username)
         val special = findViewById<TextView>(R.id.specialty_doctors)
@@ -50,7 +53,6 @@ class DatePicker : AppCompatActivity() {
         city.text = ciity
         address.text = addres
         day.text = daay
-
         timeS.text = ts
         timeE.text = te
         val endDate = Calendar.getInstance()
@@ -75,7 +77,17 @@ class DatePicker : AppCompatActivity() {
         calendar.calendarListener = object : HorizontalCalendarListener() {
             override fun onDateSelected(date: Date?, position: Int) {
                 selectedDateStr = DateFormat.format("EEE, MMM d, yyyy", date).toString()
-                Log.i("onDateSelected", selectedDateStr)
+                /*  val delim = "-"
+                  val arr = daay?.split(delim)
+                  if (arr != null) {
+                      for (i in arr.toTypedArray()) {
+                          if (i == DateFormat.format("EEE", date)) {
+                              selectedDateStr = DateFormat.format("EEE, MMM d, yyyy", date).toString()
+                              Log.i("day", i)
+                              Log.i("selected", DateFormat.format("EEE", date) as String)
+                          }
+                      }
+                  }*/
             }
         }
         val time = findViewById<Button>(R.id.time)
@@ -96,17 +108,37 @@ class DatePicker : AppCompatActivity() {
                 Log.d("show hour", "$hour:$min")
             }
         }
-        val s = findViewById<Button>(R.id.sabt)
-        s.setOnClickListener {
+        val sabt = findViewById<Button>(R.id.sabt)
+        sabt.setOnClickListener {
             val intent = Intent(this, Reserve::class.java)
+            if (selectedDateStr.isEmpty() || hour_min.isEmpty()) {
+                Toast.makeText(this@DatePicker, "you must select date & time", Toast.LENGTH_LONG)
+                    .show()
+            } else {
+                intent.putExtra("name", name)
+                intent.putExtra("specialty", specialty)
+                setLocale(this, "en")
+                startActivity(intent)
+            }
+        }
+        val comment = findViewById<Button>(R.id.comment)
+        comment.setOnClickListener {
+            val intent = Intent(this, AddComment::class.java)
             intent.putExtra("name", name)
             intent.putExtra("specialty", specialty)
             setLocale(this, "en")
             startActivity(intent)
         }
+        val upload = findViewById<ImageButton>(R.id.upload)
+        upload.setOnClickListener {
+            val intent = Intent(this, UploadImage::class.java)
+            intent.putExtra("name", name)
+            setLocale(this, "en")
+            startActivity(intent)
+        }
     }
 
-    private fun setLocale(activity: Activity, language: String?) {
+    private fun setLocale(activity: Activity, language: String) {
         val locale = Locale(language)
         Locale.setDefault(locale)
         val resources: Resources = activity.resources

@@ -14,10 +14,10 @@ interface PatientDao {
     @Query("SELECT * FROM patient_table")
     fun getAllReservesUsers(): LiveData<List<Patient>>
 
-    @Query("SELECT * FROM patient_table WHERE doctorName = :name")
-    fun getByDoctorName(name: String): Patient
-
     @Delete
     fun deleteReservedUser(patient: Patient)
+
+    @Query("SELECT EXISTS (SELECT * FROM patient_table WHERE time = :time AND date = :date)")
+    fun checkExist(time: String, date: String): Boolean
 }
 

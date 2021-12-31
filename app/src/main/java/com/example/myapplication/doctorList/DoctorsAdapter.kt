@@ -2,6 +2,8 @@ package com.example.myapplication.doctorList
 
 import android.content.Context
 import android.content.Intent
+import android.content.res.Configuration
+import android.content.res.Resources
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
@@ -9,9 +11,10 @@ import android.widget.Button
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.example.myapplication.R
+import com.example.myapplication.comment.CommentsList
 import com.example.myapplication.patient.DatePicker
 import com.example.myapplication.patient.ReserveList
-
+import java.util.*
 
 class DoctorsAdapter(
     private val context: Context,
@@ -25,6 +28,7 @@ class DoctorsAdapter(
         val city: TextView = view.findViewById(R.id.city)
         val appointment: Button = view.findViewById(R.id.appointment)
         val reserved: Button = view.findViewById(R.id.reserved)
+        val comment: Button = view.findViewById(R.id.see_comments)
     }
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): DoctorsViewHolder {
@@ -66,10 +70,15 @@ class DoctorsAdapter(
             intent.flags = Intent.FLAG_ACTIVITY_NEW_TASK
             context.startActivity(intent)
         }
+        holder.comment.setOnClickListener {
+            val intent = Intent(context, CommentsList::class.java)
+            intent.putExtra("docName", holder.username.text)
+            intent.flags = Intent.FLAG_ACTIVITY_NEW_TASK
+            context.startActivity(intent)
+        }
     }
 
     override fun getItemCount(): Int {
         return doctors.size
     }
-
 }

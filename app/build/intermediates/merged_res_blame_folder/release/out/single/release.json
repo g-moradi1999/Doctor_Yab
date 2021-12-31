@@ -1,0 +1,398 @@
+[
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\drawable_eye.jpg.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\drawable\\eye.jpg"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\drawable_userprofile.png.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\drawable\\userprofile.png"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\drawable_ic_baseline_access_time_24.xml.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\drawable\\ic_baseline_access_time_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\drawable_hair.jpg.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\drawable\\hair.jpg"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\drawable_back3.jpg.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\drawable\\back3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\layout_activity_reserve_list.xml.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\layout\\activity_reserve_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\layout_doctors_info.xml.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\layout\\doctors_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\drawable_back4.jpg.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\drawable\\back4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\drawable_splash.png.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\drawable\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\drawable_u.png.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\drawable\\u.png"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\mipmap-mdpi_appicon.png.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\mipmap-mdpi\\appicon.png"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_doci.png.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\drawable-xhdpi\\doci.png"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\drawable_riye.jpg.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\drawable\\riye.jpg"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\drawable_border5.xml.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\drawable\\border5.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\layout_activity_reserve.xml.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\layout\\activity_reserve.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\layout_s_comment.xml.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\layout\\s_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\layout_doctors.xml.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\layout\\doctors.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\drawable_back1.jpg.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\drawable\\back1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\drawable_addcommentnew.png.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\drawable\\addcommentnew.png"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\drawable_ic_baseline_local_phone_24.xml.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\drawable\\ic_baseline_local_phone_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\drawable_pro.jpg.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\drawable\\pro.jpg"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\drawable_ic_baseline_search_24.xml.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\drawable\\ic_baseline_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\drawable_border4.xml.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\drawable\\border4.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\drawable_ic_baseline_location_on_24.xml.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\drawable\\ic_baseline_location_on_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\drawable-xxxhdpi_doci.png.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\drawable-xxxhdpi\\doci.png"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\layout_save_comment.xml.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\layout\\save_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\drawable_listcomments.png.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\drawable\\listcomments.png"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxxhdpi_appicon.png.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\mipmap-xxxhdpi\\appicon.png"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\mipmap-hdpi_appicon.png.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\mipmap-hdpi\\appicon.png"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\drawable_back9.jpg.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\drawable\\back9.jpg"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\drawable_ghalb1.jpg.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\drawable\\ghalb1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\layout_activity_user_list.xml.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\layout\\activity_user_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\layout_users.xml.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\layout\\users.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\drawable_homepage.png.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\drawable\\homepage.png"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\drawable_profile.png.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\drawable\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\drawable_back6.jpg.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\drawable\\back6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\drawable_d.png.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\drawable\\d.png"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\layout_r_list.xml.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\layout\\r_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\drawable_border1.xml.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\drawable\\border1.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\layout_fragment_doctor.xml.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\layout\\fragment_doctor.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\drawable_ic_baseline_add_comment_24.xml.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\drawable\\ic_baseline_add_comment_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\drawable_ic_baseline_calendar_today_24.xml.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\drawable\\ic_baseline_calendar_today_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\menu_menu.xml.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\drawable_stethoscope.png.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\drawable\\stethoscope.png"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\layout_activity_date_picker.xml.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\layout\\activity_date_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\drawable_calender.jpg.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\drawable\\calender.jpg"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\drawable_reserve.jpg.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\drawable\\reserve.jpg"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\drawable_maghz.jpg.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\drawable\\maghz.jpg"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\drawable_border2.xml.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\drawable\\border2.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\drawable_ic_baseline_date_range_24.xml.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\drawable\\ic_baseline_date_range_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\layout_activity_comments_list.xml.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\layout\\activity_comments_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\drawable_back7.jpg.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\drawable\\back7.jpg"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\drawable_nini2.jpg.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\drawable\\nini2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\menu_nav_menu.xml.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\menu\\nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\drawable-xxhdpi_doci.png.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\drawable-xxhdpi\\doci.png"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\drawable-hdpi_ic_baseline_add_photo_alternate_24.xml.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\drawable-hdpi\\ic_baseline_add_photo_alternate_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\drawable-hdpi_doci.png.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\drawable-hdpi\\doci.png"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\drawable_back5.jpg.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\drawable\\back5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\drawable_ic_baseline_delete_24.xml.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\drawable\\ic_baseline_delete_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\layout_add_comment.xml.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\layout\\add_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\mipmap-xhdpi_appicon.png.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\mipmap-xhdpi\\appicon.png"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\layout_reserve.xml.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\layout\\reserve.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\drawable_clock.png.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\drawable\\clock.png"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\layout_activity_upload_image.xml.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\layout\\activity_upload_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\drawable_backhome.jpg.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\drawable\\backhome.jpg"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\drawable_back8.jpg.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\drawable\\back8.jpg"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\drawable_back2.jpg.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\drawable\\back2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\drawable_docprofile.jpg.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\drawable\\docprofile.jpg"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\drawable_border6.xml.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\drawable\\border6.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\drawable_doctor.png.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\drawable\\doctor.png"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\drawable_dandan.jpg.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\drawable\\dandan.jpg"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\layout_activity_display_image.xml.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\layout\\activity_display_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\drawable_kabed.jpg.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\drawable\\kabed.jpg"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxhdpi_appicon.png.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\mipmap-xxhdpi\\appicon.png"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\drawable_nose.jpg.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\drawable\\nose.jpg"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\drawable_border3.xml.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\drawable\\border3.xml"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_doci.png.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\drawable-mdpi\\doci.png"
+    },
+    {
+        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\merged_res\\release\\layout_u_image.xml.flat",
+        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\layout\\u_image.xml"
+    }
+]

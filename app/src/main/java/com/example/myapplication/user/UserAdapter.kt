@@ -32,7 +32,6 @@ class UserAdapter(private val listener: RowClickListener, private val context: C
         return MyViewHolder(view)
     }
 
-    @InternalCoroutinesApi
     override fun onBindViewHolder(holder: MyViewHolder, position: Int) {
         val currentItem = userList[position]
         holder.name.text = currentItem.name

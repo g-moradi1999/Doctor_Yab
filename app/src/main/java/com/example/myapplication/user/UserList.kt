@@ -11,10 +11,8 @@ import kotlinx.coroutines.InternalCoroutinesApi
 
 class UserList : AppCompatActivity(), UserAdapter.RowClickListener {
 
-    @InternalCoroutinesApi
     private lateinit var mUserViewModel: UserViewModel
 
-    @InternalCoroutinesApi
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_user_list)
@@ -32,7 +30,6 @@ class UserList : AppCompatActivity(), UserAdapter.RowClickListener {
             })
     }
 
-    @InternalCoroutinesApi
     override fun onDeleteUserClickListener(user: User) {
         mUserViewModel.deleteUsers(user)
     }

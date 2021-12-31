@@ -1,0 +1,80 @@
+com/example/myapplication/databinding/FragmentDoctorBinding.java
+ com.example.myapplication.databinding.FragmentDoctorBinding
+com/example/myapplication/databinding/ActivityReserveListBinding.java
+ com.example.myapplication.databinding.ActivityReserveListBinding
+com/example/myapplication/databinding/ActivityDisplayImageBinding.java
+ com.example.myapplication.databinding.ActivityDisplayImageBinding
+com/example/myapplication/comment/CommentDao_Impl.java
+ com.example.myapplication.comment.CommentDao_Impl
+ com.example.myapplication.comment.CommentDao_Impl$1
+ com.example.myapplication.comment.CommentDao_Impl$2
+ com.example.myapplication.comment.CommentDao_Impl$3
+com/example/myapplication/databinding/ActivitySplashBinding.java
+ com.example.myapplication.databinding.ActivitySplashBinding
+com/example/myapplication/databinding/ActivityRegisterBinding.java
+ com.example.myapplication.databinding.ActivityRegisterBinding
+com/example/myapplication/user/UserDao_Impl.java
+ com.example.myapplication.user.UserDao_Impl
+ com.example.myapplication.user.UserDao_Impl$1
+ com.example.myapplication.user.UserDao_Impl$2
+ com.example.myapplication.user.UserDao_Impl$3
+com/example/myapplication/databinding/SaveCommentBinding.java
+ com.example.myapplication.databinding.SaveCommentBinding
+com/example/myapplication/databinding/ActivityUploadImageBinding.java
+ com.example.myapplication.databinding.ActivityUploadImageBinding
+com/example/myapplication/patient/PatientDatabase_Impl.java
+ com.example.myapplication.patient.PatientDatabase_Impl
+ com.example.myapplication.patient.PatientDatabase_Impl$1
+com/example/myapplication/databinding/SCommentBinding.java
+ com.example.myapplication.databinding.SCommentBinding
+com/example/myapplication/databinding/ActivityDatePickerBinding.java
+ com.example.myapplication.databinding.ActivityDatePickerBinding
+com/example/myapplication/user/UserDatabase_Impl.java
+ com.example.myapplication.user.UserDatabase_Impl
+ com.example.myapplication.user.UserDatabase_Impl$1
+com/example/myapplication/databinding/FragmentHomeBinding.java
+ com.example.myapplication.databinding.FragmentHomeBinding
+com/example/myapplication/comment/CommentDataBase_Impl.java
+ com.example.myapplication.comment.CommentDataBase_Impl
+ com.example.myapplication.comment.CommentDataBase_Impl$1
+com/example/myapplication/uploadImage/ImageDataBase_Impl.java
+ com.example.myapplication.uploadImage.ImageDataBase_Impl
+ com.example.myapplication.uploadImage.ImageDataBase_Impl$1
+com/example/myapplication/databinding/DoctorsBinding.java
+ com.example.myapplication.databinding.DoctorsBinding
+com/example/myapplication/databinding/ActivityCommentsListBinding.java
+ com.example.myapplication.databinding.ActivityCommentsListBinding
+com/example/myapplication/databinding/RListBinding.java
+ com.example.myapplication.databinding.RListBinding
+com/example/myapplication/databinding/FragmentProfileBinding.java
+ com.example.myapplication.databinding.FragmentProfileBinding
+com/example/myapplication/databinding/UsersBinding.java
+ com.example.myapplication.databinding.UsersBinding
+com/example/myapplication/uploadImage/ImageDao_Impl.java
+ com.example.myapplication.uploadImage.ImageDao_Impl
+ com.example.myapplication.uploadImage.ImageDao_Impl$1
+ com.example.myapplication.uploadImage.ImageDao_Impl$2
+ com.example.myapplication.uploadImage.ImageDao_Impl$3
+com/example/myapplication/patient/PatientDao_Impl.java
+ com.example.myapplication.patient.PatientDao_Impl
+ com.example.myapplication.patient.PatientDao_Impl$1
+ com.example.myapplication.patient.PatientDao_Impl$2
+ com.example.myapplication.patient.PatientDao_Impl$3
+com/example/myapplication/databinding/ReserveBinding.java
+ com.example.myapplication.databinding.ReserveBinding
+com/example/myapplication/BuildConfig.java
+ com.example.myapplication.BuildConfig
+com/example/myapplication/databinding/ActivityMainBinding.java
+ com.example.myapplication.databinding.ActivityMainBinding
+com/example/myapplication/databinding/UImageBinding.java
+ com.example.myapplication.databinding.UImageBinding
+com/example/myapplication/databinding/AddCommentBinding.java
+ com.example.myapplication.databinding.AddCommentBinding
+com/example/myapplication/databinding/ActivityLoginBinding.java
+ com.example.myapplication.databinding.ActivityLoginBinding
+com/example/myapplication/databinding/ActivityUserListBinding.java
+ com.example.myapplication.databinding.ActivityUserListBinding
+com/example/myapplication/databinding/ActivityReserveBinding.java
+ com.example.myapplication.databinding.ActivityReserveBinding
+com/example/myapplication/databinding/DoctorsInfoBinding.java
+ com.example.myapplication.databinding.DoctorsInfoBinding

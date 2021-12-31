@@ -4,7 +4,6 @@ import android.content.Context
 import androidx.room.Database
 import androidx.room.Room
 import androidx.room.RoomDatabase
-import kotlinx.coroutines.InternalCoroutinesApi
 
 
 @Database(entities = [User::class], version = 1, exportSchema = false)
@@ -15,7 +14,6 @@ abstract class UserDatabase : RoomDatabase() {
     companion object {
         private var INSTANCE: UserDatabase? = null
 
-        @InternalCoroutinesApi
         fun getDatabase(context: Context): UserDatabase {
             if (INSTANCE == null) {
                 INSTANCE = Room.databaseBuilder(
