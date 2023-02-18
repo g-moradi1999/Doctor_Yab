@@ -3,4 +3,4 @@ At first, the user installs the program and enters the program. After seeing the
 
 1.Front-end:kotlin
 2.Back-end:PHP
-3.MySQL database created on local host using PHPMyAdmin.
+3.MySQL database created on local host using PHPMyAdmin
