@@ -128,7 +128,6 @@ class HomeFragment : Fragment() {
                         9 -> {
                             s = parent?.getItemAtPosition(position) as String
                         }
-
                     }
                 }
 

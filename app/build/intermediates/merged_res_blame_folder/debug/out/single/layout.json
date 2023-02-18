@@ -1,94 +1,94 @@
 [
     {
-        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_reserve.xml",
-        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\layout\\activity_reserve.xml"
+        "merged": "com.example.myapplication.app-mergeDebugResources-30:/layout/activity_reserve.xml",
+        "source": "com.example.myapplication.app-main-33:/layout/activity_reserve.xml"
     },
     {
-        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_comments_list.xml",
-        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\layout\\activity_comments_list.xml"
+        "merged": "com.example.myapplication.app-mergeDebugResources-30:/layout/fragment_doctor.xml",
+        "source": "com.example.myapplication.app-main-33:/layout/fragment_doctor.xml"
     },
     {
-        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
-        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\layout\\fragment_home.xml"
+        "merged": "com.example.myapplication.app-mergeDebugResources-30:/layout/activity_splash.xml",
+        "source": "com.example.myapplication.app-main-33:/layout/activity_splash.xml"
     },
     {
-        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_register.xml",
-        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\layout\\activity_register.xml"
+        "merged": "com.example.myapplication.app-mergeDebugResources-30:/layout/activity_login.xml",
+        "source": "com.example.myapplication.app-main-33:/layout/activity_login.xml"
     },
     {
-        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\reserve.xml",
-        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\layout\\reserve.xml"
+        "merged": "com.example.myapplication.app-mergeDebugResources-30:/layout/reserve.xml",
+        "source": "com.example.myapplication.app-main-33:/layout/reserve.xml"
     },
     {
-        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\r_list.xml",
-        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\layout\\r_list.xml"
+        "merged": "com.example.myapplication.app-mergeDebugResources-30:/layout/u_image.xml",
+        "source": "com.example.myapplication.app-main-33:/layout/u_image.xml"
     },
     {
-        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_date_picker.xml",
-        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\layout\\activity_date_picker.xml"
+        "merged": "com.example.myapplication.app-mergeDebugResources-30:/layout/r_list.xml",
+        "source": "com.example.myapplication.app-main-33:/layout/r_list.xml"
     },
     {
-        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\u_image.xml",
-        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\layout\\u_image.xml"
+        "merged": "com.example.myapplication.app-mergeDebugResources-30:/layout/activity_reserve_list.xml",
+        "source": "com.example.myapplication.app-main-33:/layout/activity_reserve_list.xml"
     },
     {
-        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\doctors.xml",
-        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\layout\\doctors.xml"
+        "merged": "com.example.myapplication.app-mergeDebugResources-30:/layout/activity_date_picker.xml",
+        "source": "com.example.myapplication.app-main-33:/layout/activity_date_picker.xml"
     },
     {
-        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\s_comment.xml",
-        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\layout\\s_comment.xml"
+        "merged": "com.example.myapplication.app-mergeDebugResources-30:/layout/activity_user_list.xml",
+        "source": "com.example.myapplication.app-main-33:/layout/activity_user_list.xml"
     },
     {
-        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_splash.xml",
-        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\layout\\activity_splash.xml"
+        "merged": "com.example.myapplication.app-mergeDebugResources-30:/layout/save_comment.xml",
+        "source": "com.example.myapplication.app-main-33:/layout/save_comment.xml"
     },
     {
-        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\add_comment.xml",
-        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\layout\\add_comment.xml"
+        "merged": "com.example.myapplication.app-mergeDebugResources-30:/layout/users.xml",
+        "source": "com.example.myapplication.app-main-33:/layout/users.xml"
     },
     {
-        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
-        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "com.example.myapplication.app-mergeDebugResources-30:/layout/add_comment.xml",
+        "source": "com.example.myapplication.app-main-33:/layout/add_comment.xml"
     },
     {
-        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\save_comment.xml",
-        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\layout\\save_comment.xml"
+        "merged": "com.example.myapplication.app-mergeDebugResources-30:/layout/activity_register.xml",
+        "source": "com.example.myapplication.app-main-33:/layout/activity_register.xml"
     },
     {
-        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_doctor.xml",
-        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\layout\\fragment_doctor.xml"
+        "merged": "com.example.myapplication.app-mergeDebugResources-30:/layout/doctors.xml",
+        "source": "com.example.myapplication.app-main-33:/layout/doctors.xml"
     },
     {
-        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_upload_image.xml",
-        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\layout\\activity_upload_image.xml"
+        "merged": "com.example.myapplication.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "com.example.myapplication.app-main-33:/layout/activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\users.xml",
-        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\layout\\users.xml"
+        "merged": "com.example.myapplication.app-mergeDebugResources-30:/layout/doctors_info.xml",
+        "source": "com.example.myapplication.app-main-33:/layout/doctors_info.xml"
     },
     {
-        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\doctors_info.xml",
-        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\layout\\doctors_info.xml"
+        "merged": "com.example.myapplication.app-mergeDebugResources-30:/layout/s_comment.xml",
+        "source": "com.example.myapplication.app-main-33:/layout/s_comment.xml"
     },
     {
-        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_profile.xml",
-        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+        "merged": "com.example.myapplication.app-mergeDebugResources-30:/layout/activity_comments_list.xml",
+        "source": "com.example.myapplication.app-main-33:/layout/activity_comments_list.xml"
     },
     {
-        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_user_list.xml",
-        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\layout\\activity_user_list.xml"
+        "merged": "com.example.myapplication.app-mergeDebugResources-30:/layout/activity_upload_image.xml",
+        "source": "com.example.myapplication.app-main-33:/layout/activity_upload_image.xml"
     },
     {
-        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
-        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\layout\\activity_login.xml"
+        "merged": "com.example.myapplication.app-mergeDebugResources-30:/layout/activity_display_image.xml",
+        "source": "com.example.myapplication.app-main-33:/layout/activity_display_image.xml"
     },
     {
-        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_display_image.xml",
-        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\layout\\activity_display_image.xml"
+        "merged": "com.example.myapplication.app-mergeDebugResources-30:/layout/fragment_home.xml",
+        "source": "com.example.myapplication.app-main-33:/layout/fragment_home.xml"
     },
     {
-        "merged": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_reserve_list.xml",
-        "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\layout\\activity_reserve_list.xml"
+        "merged": "com.example.myapplication.app-mergeDebugResources-30:/layout/fragment_profile.xml",
+        "source": "com.example.myapplication.app-main-33:/layout/fragment_profile.xml"
     }
 ]

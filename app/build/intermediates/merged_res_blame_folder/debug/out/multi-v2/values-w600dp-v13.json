@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w600dp-v13\\values-w600dp-v13.xml",
+            "outputFile": "com.example.myapplication.app-mergeDebugResources-29:/values-w600dp-v13/values-w600dp-v13.xml",
             "map": [
                 {
                     "source": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\values-w600dp\\dimens.xml",

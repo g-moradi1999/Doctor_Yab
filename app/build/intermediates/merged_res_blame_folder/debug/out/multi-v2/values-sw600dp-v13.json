@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\golno\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "outputFile": "com.example.myapplication.app-mergeDebugResources-29:/values-sw600dp-v13/values-sw600dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\golno\\.gradle\\gradle-7.0.2-all\\caches\\transforms-3\\38b5338972231d7bbabd3884fc9ea7dc\\transformed\\material-1.4.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "C:\\Users\\golno\\.gradle\\gradle-7.6-all\\caches\\transforms-3\\e4f9a15edc0affade438365f17f3871e\\transformed\\material-1.4.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,10,11,12,13,14",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\golno\\.gradle\\gradle-7.0.2-all\\caches\\transforms-3\\1f8befa73e6b4a6760b78939c46546f5\\transformed\\appcompat-1.3.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "C:\\Users\\golno\\.gradle\\gradle-7.6-all\\caches\\transforms-3\\cfc9efd905a73be1517a0005cab38117\\transformed\\appcompat-1.3.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",

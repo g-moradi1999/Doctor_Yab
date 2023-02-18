@@ -1,26 +1,14 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.test:rules:1.4.0@aar">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7cf8e563adb91d4da5508e65da4187ee/transformed/rules-1.4.0/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3f3aff1199527a7aa6230edd950da5f9/transformed/rules-1.4.0/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/dc1f2c3288cf795c80e16e847c7211b3/transformed/rules-1.4.0/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/3f3aff1199527a7aa6230edd950da5f9/transformed/rules-1.4.0/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3f3aff1199527a7aa6230edd950da5f9/transformed/rules-1.4.0/AndroidManifest.xml" />
-      <root url="file://$USER_HOME$/.gradle/gradle-7.0.2-all/caches/transforms-3/3f3aff1199527a7aa6230edd950da5f9/transformed/rules-1.4.0/res" />
-      <root url="file://$USER_HOME$/.gradle/gradle-7.0.2-all/caches/transforms-3/199e953ceef5716c7cdd701a9e701455/transformed/rules-1.4.0/res" />
-      <root url="file://$USER_HOME$/.gradle/gradle-7.0.2-all/caches/transforms-3/0d248fe05fa38be9145d441b7d95515a/transformed/rules-1.4.0/res" />
-      <root url="file://$USER_HOME$/.gradle/gradle-7.0.2-all/caches/transforms-3/ea12e43d4fd0c74dad9733a074d95c7d/transformed/rules-1.4.0/res" />
-      <root url="jar://$USER_HOME$/.gradle/gradle-7.0.2-all/caches/transforms-3/ec310b61fcfab22bbdc1a8af86921489/transformed/rules-1.4.0/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/gradle-7.0.2-all/caches/transforms-3/ec310b61fcfab22bbdc1a8af86921489/transformed/rules-1.4.0/res" />
-      <root url="file://$USER_HOME$/.gradle/gradle-7.0.2-all/caches/transforms-3/ec310b61fcfab22bbdc1a8af86921489/transformed/rules-1.4.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5525844520bf0f012a6c9f7c894f7c09/transformed/rules-1.4.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/5525844520bf0f012a6c9f7c894f7c09/transformed/rules-1.4.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test/rules/1.4.0/326d97acb2a9cf7cbff243e63d1d45fa354b8ec7/rules-1.4.0-javadoc.jar!/" />
-      <root url="jar://$USER_HOME$/.gradle/gradle-7.0.2-all/caches/modules-2/files-2.1/androidx.test/rules/1.4.0/326d97acb2a9cf7cbff243e63d1d45fa354b8ec7/rules-1.4.0-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test/rules/1.4.0/8fc7982be2b0ff9db14ec70bd68a8e06271654d1/rules-1.4.0-sources.jar!/" />
-      <root url="jar://$USER_HOME$/.gradle/gradle-7.0.2-all/caches/modules-2/files-2.1/androidx.test/rules/1.4.0/8fc7982be2b0ff9db14ec70bd68a8e06271654d1/rules-1.4.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
